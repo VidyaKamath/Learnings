@@ -5,3 +5,4 @@ Here is a list of websites that I liked and currently following
 + https://arpitbhayani.me/blogs/
 + https://blog.pragmaticengineer.com/
 + https://leanpub.com/insidethepythonvirtualmachine/read#leanpub-auto-introduction
++ https://linuxcommand.org/lc3_learning_the_shell.php
